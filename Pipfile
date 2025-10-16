@@ -1,0 +1,7 @@
+﻿[packages]
+numpy = "*"
+pandas = "*"
+textdistance = "*"
+
+[requires]
+python_version = "3.10"
